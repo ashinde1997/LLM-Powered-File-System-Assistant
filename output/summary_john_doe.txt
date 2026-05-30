@@ -1,0 +1,23 @@
+Resume Summary: John Doe
+========================
+Name: John Doe
+Location: Bangalore, Karnataka
+Phone: +91 91234 56789
+
+Current Role: Senior Developer at Infosys, Bangalore
+Experience: 4 years in full-stack development
+
+Key Skills: Python, JavaScript, TypeScript, Django, Flask, React, 
+Node.js, AWS, Docker, PostgreSQL, MongoDB
+
+Education: B.Tech Computer Science - VIT Vellore (2020)
+
+Certifications:
+- AWS Certified Developer - Associate
+- Python Institute PCEP
+
+Highlights:
+- Built Python microservices handling 2M+ daily API requests
+- Led migration to React + Django architecture
+- Reduced deployment time by 70% with CI/CD pipelines
+- 88% code coverage on automated test suites

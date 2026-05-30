@@ -1,0 +1,39 @@
+JOHN DOE
+Email: john.doe@email.com | Phone: +91 91234 56789
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+Location: Bangalore, Karnataka
+
+PROFESSIONAL SUMMARY
+Full-Stack Developer with 4 years of experience in Python, React,
+and cloud technologies. Skilled in building scalable web applications
+and REST APIs for high-traffic platforms.
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, SQL
+Frameworks: Django, Flask, React, Node.js
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, GitHub Actions
+Databases: PostgreSQL, MongoDB, Redis
+Tools: Git, Postman, VS Code, Jira
+
+WORK EXPERIENCE
+
+Senior Developer — Infosys, Bangalore, Karnataka
+Mar 2022 - Present
+- Built Python microservices handling 2M+ daily API requests
+- Led migration of legacy monolith to React + Django architecture
+- Implemented CI/CD pipelines reducing deployment time by 70%
+- Mentored 4 junior developers in Python and React best practices
+
+Software Engineer — Cognizant, Chennai, Tamil Nadu
+Jul 2020 - Feb 2022
+- Developed RESTful APIs using Python and Flask for fintech platform
+- Built interactive dashboards using React and D3.js
+- Wrote automated test suites achieving 88% code coverage
+- Collaborated with cross-functional teams in agile sprints
+
+EDUCATION
+B.Tech Computer Science - VIT Vellore (2020)
+
+CERTIFICATIONS
+- AWS Certified Developer - Associate
+- Python Institute PCEP - Certified Entry-Level Python Programmer
