@@ -174,20 +174,6 @@ The assistant uses **Gemini 1.5 Flash** with function calling:
 
 ---
 
-## 🎥 Recording the Demo Video
-
-A `demo_script.py` has been provided to help you easily record the required 2-3 minute demo video showing tool calling in action. It simulates the interaction with typing effects and tool calls without requiring an API key.
-
-1. Open a screen recorder (e.g., OBS Studio, Windows Game Bar `Win + G`, or Mac QuickTime).
-2. Start recording.
-3. Run the demo script:
-   ```bash
-   python demo_script.py
-   ```
-4. Wait for the script to finish (~2 minutes) and stop recording.
-
----
-
 ## 📄 License
 
 This project is for educational purposes as part of an LLM function-calling assignment.
